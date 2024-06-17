@@ -1,0 +1,2 @@
+webpackJsonp([9],{HrIW:function(t,e,r){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={created:function(){var t=this;this.$alert("确认退出","",{confirmButtonText:"确定",callback:function(e){localStorage.clear(),t.$router.push("/login")}})}},a={render:function(){var t=this.$createElement;return(this._self._c||t)("div")},staticRenderFns:[]};var c=r("VU/8")(n,a,!1,function(t){r("srGo")},"data-v-6d937190",null);e.default=c.exports},srGo:function(t,e){}});
+//# sourceMappingURL=9.7c202c9985512254ce77.js.map
